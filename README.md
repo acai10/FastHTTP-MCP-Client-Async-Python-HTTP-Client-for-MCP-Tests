@@ -62,6 +62,8 @@ This design ensures:
 ## 📂 Project Structure
 ```text
 └── http_client
+    ├── .gitignore
+    ├── README.md
     ├── __init__.py
     ├── example.py
     ├── fastmcp_client.py
