@@ -71,13 +71,14 @@ This design ensures:
 ```
 
 ### File Responsibilities
-
+```text
 http_client.py      → Core asynchronous HTTP communication logic  
 fastmcp_client.py   → MCP-specific client abstraction  
 logging_setup.py    → Centralized logging configuration  
 example.py          → Example entry point demonstrating usage  
 __init__.py         → Package initialization  
-requirements.txt    → Project dependencies  
+requirements.txt    → Project dependencies
+```
 
 ---
 
