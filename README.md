@@ -41,7 +41,7 @@ The project follows a layered, modular design:
 ### Architecture Concept
 
 The architecture separates transport logic from protocol logic:
-
+```text
 Application Layer (example.py)
         ↓
 Protocol Layer (fastmcp_client.py)
@@ -49,6 +49,7 @@ Protocol Layer (fastmcp_client.py)
 Transport Layer (http_client.py)
         ↓
 External HTTP / MCP Service
+```
 
 This design ensures:
 
