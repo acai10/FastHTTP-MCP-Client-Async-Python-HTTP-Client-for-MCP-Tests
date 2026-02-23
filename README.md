@@ -93,7 +93,7 @@ requirements.txt    → Project dependencies
 
 1. Clone the repository
 
-   git clone <your-repository-url>
+   git clone git@github.com:acai10/FastHTTP-MCP-Client-Async-Python-HTTP-Client-for-MCP-Tests.git
    cd http_client
 
 2. Install dependencies
