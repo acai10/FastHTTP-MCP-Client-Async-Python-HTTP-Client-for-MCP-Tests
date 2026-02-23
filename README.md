@@ -60,7 +60,7 @@ This design ensures:
 ---
 
 ## 📂 Project Structure
-
+```text
 └── http_client
     ├── __init__.py
     ├── example.py
@@ -68,6 +68,7 @@ This design ensures:
     ├── http_client.py
     ├── logging_setup.py
     └── requirements.txt
+```
 
 ### File Responsibilities
 
